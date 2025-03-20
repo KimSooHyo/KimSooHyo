@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=radical)
 
 
-## 경력 사항
+## 경험 
 
 | 회사 이름    | 근무 기간          | 직책               | 주요 프로젝트 및 성과        |
 |---------------|--------------------|--------------------|-----------------------------|
-| ABC 회사     | 2021년 1월 - 2022년 12월 | 소프트웨어 엔지니어 | 웹 애플리케이션 개발 및 유지보수 |
-| XYZ 회사     | 2020년 6월 - 2020년 12월 | 인턴               | 데이터 분석 및 리포트 작성  |
+| 금융 보안원 FSI DATA X AI CHALLENGE 2024 | 2024년 8월 - 2024년 10월 | 기획 및 LLM 개발 | 공모전 부문 5위 |
+| 모두록(modulog)  | 2025년 3월 | 음성 AI 개발  | 음성 인식, STT 서비스 개발  |
 
 ## 교육
 

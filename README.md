@@ -32,6 +32,22 @@ Here are some ideas to get you started:
 ## 📂 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=radical)
 
+
+## 경력 사항
+
+| 회사 이름    | 근무 기간          | 직책               | 주요 프로젝트 및 성과        |
+|---------------|--------------------|--------------------|-----------------------------|
+| ABC 회사     | 2021년 1월 - 2022년 12월 | 소프트웨어 엔지니어 | 웹 애플리케이션 개발 및 유지보수 |
+| XYZ 회사     | 2020년 6월 - 2020년 12월 | 인턴               | 데이터 분석 및 리포트 작성  |
+
+## 교육
+
+| 교육 기관 이름 | 수료 연도 | 과정명                   | 설명                   |
+|----------------|-----------|--------------------------|------------------------|
+| 서울대학교     | 2020년    | 컴퓨터 과학 석사 과정 | 심화 연구 및 프로젝트 수행 |
+| 코드 아카데미   | 2019년    | 웹 개발 부트캠프      | 웹 개발 기초 및 실습    |
+
+
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

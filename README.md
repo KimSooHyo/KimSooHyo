@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![YOUR_GITHUB_ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSooHyo&show_icons=true&theme=skyblue)
 
 ## 📂 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=cobalt)
 
 
 ## 프로젝트

@@ -20,13 +20,19 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/KimSooHyo?style=social)
 
 ## 🚀 About Me
-- 🎓 Studying **Data Science & AI**
-- 🏆 Passionate about **Algorithms, NLP, and AI competitions**
+- 🎓 Studying **AI**
+- 🏆 Passionate about **Speech AI, NLP and Data Science**
+
+<!--
+이 부분은 주석 처리되어 보이지 않습니다.
 - 🌱 Currently learning **Reinforcement Learning & Generative AI**
 - 💡 Interested in **Building AI models & Open Source Contributions**
+-->
+
 
 ## 📌 My GitHub Stats
 ![YOUR_GITHUB_ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSooHyo&show_icons=true&theme=skyblue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=merko&title_color=navy&bg_color=white)
 
 
@@ -34,9 +40,9 @@ Here are some ideas to get you started:
  
  | 이름    | 기간          | 역할             | 비고                 |
  |---------------|--------------------|--------------------|-----------------------------|
-  | 모두록(modulog)  | 2025년 3월 | 음성 인식, STT 서비스 개발  | 구글 ML 부트캠프  |
+ | MODULOG  | 2025년 3월 | 음성 인식, STT 서비스 개발  | 구글 ML 부트캠프  |
  | 금융 보안원 FSI DATA X AI CHALLENGE 2024 | 2024년 8월 - 2024년 10월 | 기획 및 LLM 개발 | 공모전 부문 5위 |
- | 농산물 가격 예측 경진대회 | 2024년 9월 | 시계열 데이터 분석 및 ML 모델 개발 | 데이콘 주최 |
+ | 농산물 가격 예측 경진대회 | 2024년 9월 | 시계열 데이터 분석 및 ML 시스템 구축 | 데이콘 |
  
  ## 교육
  
@@ -47,16 +53,19 @@ Here are some ideas to get you started:
  | 수도권 ICT 이노베이션 스퀘어 | 2024년 12월 | 서비스 기획(40시간) | 기획, 피그마, 파이썬 사용 |
  | 소프트웨어 협회 | 2025년 3월 | 구글 ML 부트캠프(120시간) | ~ |
 
+## 자격증
+ | 기관          | 취득 년도     | 이름                   | 비고                   |
+ |----------------|-----------|--------------------------|------------------------|
+ | 한국데이터산업진흥원| 2025 | SQLD | - |
+
+<!--
  ## 경험
  | 기관          | 기간      | 활동                   | 비고                   |
  |----------------|-----------|--------------------------|------------------------|
  | perpic.ai | 2023년  |서포터즈 1기 | 생성형 ai를 통한 이미지 제작 및 피드백 활동 |
  | 인디펍 | 2025년  | 서포터즈 51기 |  독립출판물 서평 작성 및 독립출판 마케팅 콘텐츠 제작 |
 
-## 자격증
- | 기관          | 취득 년도     | 이름                   | 비고                   |
- |----------------|-----------|--------------------------|------------------------|
- | 한국데이터산업진흥원| 2025 | SQLD | - |
+-->
 
 ## 🛠️ Tech Stack
 <p align="left">

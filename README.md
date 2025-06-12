@@ -40,8 +40,8 @@ Here are some ideas to get you started:
  
  | 이름    | 기간          | 역할             | 비고                 |
  |---------------|--------------------|--------------------|-----------------------------|
- | 다국어 회의록 서비스 [MODULOG](https://github.com/KimSooHyo/MODULOG.git)  | 2025년 3월 | 음성 인식, STT 서비스 개발  | 구글 ML 부트캠프  |
- | 금융 보안원 FSI DATA X AI CHALLENGE 2024 | 2024년 8월 - 2024년 10월 | 기획 및 LLM 개발 | 공모전 부문 5위 |
+ | 다국어 회의록 서비스 [MODULOG](https://github.com/KimSooHyo/MODULOG.git)  | 2025년 3월 | 음성 인식, STT 서비스 개발  | 구글 ML 부트캠프 1위  |
+ | 금융 투자 리스크 시나리오 생성 LLM | 2024년 8월 - 2024년 10월 | 기획 및 LLM 개발 | 금융 보안원 FSI DATA X AI CHALLENGE 2024 공모전 부문 5위 |
  | [농산물 가격 예측 경진대회](https://github.com/KimSooHyo/Price-Prediction-Competition.git) | 2024년 9월 | 시계열 데이터 분석 및 ML 시스템 구축 | 데이콘 |
  
  ## 교육

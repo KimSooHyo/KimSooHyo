@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 📌 My GitHub Stats
-![YOUR_GITHUB_ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSooHyo&show_icons=true&theme=skyblue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=merko&title_color=navy&bg_color=white)
 
 

@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm SuHyo!
 
-![GitHub followers](https://img.shields.io/github/followers/KimSooHyo?style=social)
-![GitHub stars](https://img.shields.io/github/stars/KimSooHyo?style=social)
 
 ## 🚀 About Me
 - 🎓 Studying **AI**

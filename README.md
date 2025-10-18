@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimSooHyo&layout=compact&theme=merko&title_color=navy&bg_color=white)
 
 
 ## 프로젝트
